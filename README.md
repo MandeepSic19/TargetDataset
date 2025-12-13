@@ -21,7 +21,7 @@ This dataset is provided **for academic and research purposes only** and must **
 ## **Reproducibility and Workflow**
 All preprocessing steps, software details, and filter parameters required to reproduce the results are documented in the `rqt/` folder.
 
-**Citation**
+## **Citation**
 If you use this dataset in your work, please cite us using the following information:
 
 Further, A formal citation with publication details and DOI will be provided once the paper is published.
