@@ -7,7 +7,7 @@ The 3D point cloud data for each target distance were captured using the UTM-30L
 Representative sample images illustrating the captured point clouds and the corresponding Height and Width measurements are provided in the `figures/` folder. These images offer a qualitative overview of the dataset and the measurement workflow.
 
 **Data Availability**
-The raw `.pcd` files and associated scripts are available upon request. Interested researchers may submit a request using the Google Form (link below).
+The raw `.pcd` files and associated scripts are available upon request. Interested researchers may submit a request using the Google Form (https://forms.gle/7GKQZj3UFonACS1w7).
 
 Upon approval:
 - The requested files will be uploaded to this repository or shared privately, as appropriate.
