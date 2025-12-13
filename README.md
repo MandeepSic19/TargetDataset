@@ -1,6 +1,6 @@
 ##**Target_Dataset**
 
- ##**Dataset Overview**
+**Dataset Overview**
 The 3D point cloud data for each target distance were captured using the UTM-30LX-EW sensor. Depth measurements were processed using **URGBBENRI Plus** software. To ensure accurate measurements, the point clouds were preprocessed using pass-through filtering, outlier removal, and voxel grid downsampling. All preprocessing parameters are documented in the `rqt/` folder. Plane segmentation was applied to extract the target plane, followed by min–max bounding box computation and corner detection to determine the target **Height** and **Width**.
 
 ## **Sample Images**
@@ -21,7 +21,7 @@ This dataset is provided **for academic and research purposes only** and must **
 ## **Reproducibility and Workflow**
 All preprocessing steps, software details, and filter parameters required to reproduce the results are documented in the `rqt/` folder.
 
- ##**Citation**
+**Citation**
 If you use this dataset in your work, please cite us using the following information:
 
 Further, A formal citation with publication details and DOI will be provided once the paper is published.
