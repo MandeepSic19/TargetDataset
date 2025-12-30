@@ -2,7 +2,7 @@
 
 This repository contains **sample data** and **reference code** to demonstrate the calibration and optimization workflow. The **full dataset** used in the experiments contains proprietary information and **cannot be shared publicly**. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.
 
-A permanent archival snapshot** of this repository and the **methodology diagram is available on Zenodo:  
+A permanent archival snapshot of this repository and the **methodology diagram is available on Zenodo:  
 DOI for repository: `https://doi.org/10.5281/zenodo.XXXXXXXX`  
 DOI for methodology diagram: `https://doi.org/10.5281/zenodo.YYYYYYYY`
 ---
