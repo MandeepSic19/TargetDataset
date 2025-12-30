@@ -1,7 +1,14 @@
 ## **RefData_LC**
 
 ## **Dataset Overview**
-The 3D point cloud data for each target distance were captured using the UTM-30LX-EW sensor. To ensure accurate measurements, the point clouds were preprocessed using pass-through filtering, outlier removal, and voxel grid downsampling. All preprocessing parameters are documented in the `rqt/` folder. Plane segmentation was applied to extract the target plane, followed by min–max bounding box computation and corner detection to determine the target **Height** and **Width**.Depth measurements were processed using URGBBENRI Plus software.
+This repository contains sample point cloud data and reference code to demonstrate the LiDAR calibration and optimization workflow.
+
+The full dataset used in the experiments contains proprietary information and cannot be shared publicly.
+The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps.
+Access to the full dataset can be requested by contacting the author, subject to approval.
+
+A permanent archival snapshot of this repository and the methodology diagram is available on Zenodo:
+DOI: https://doi.org/10.5281/zenodo.XXXXXXXX
 
 ## **Sample Images**
 Representative sample images illustrating the captured point clouds and the corresponding Height and Width measurements are provided in the `figures/` folder. These images offer a qualitative overview of the dataset and the measurement workflow.
