@@ -1,6 +1,6 @@
 # RefData_LC
 
-This repository contains sample data and reference code to demonstrate the LiDAR calibration and optimization workflow. The full dataset used in the experiments contains proprietary information and cannot be shared publicly. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.
+This repository contains sample data and reference codes to demonstrate the  calibration and optimization workflow. The full dataset used in the experiments contains proprietary information and cannot be shared publicly. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.Further,It is sufficient for validating the methodology and reproducing the computational pipeline.
 
 A permanent archival snapshot of this repository and the methodology diagram is available on Zenodo:  
 - Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
@@ -9,7 +9,6 @@ A permanent archival snapshot of this repository and the methodology diagram is 
 ---
 
 ## Dataset Overview
-
 This repository includes sample `.pcd` files representative of the full dataset.  
 - Preprocessing, calibration, and optimization workflows are demonstrated using these sample files.  
 - Full experimental setup, hardware specifications, and preprocessing parameters are described in the associated publication.
@@ -19,15 +18,13 @@ Only sample `.pcd` files are included. Full dataset access is available upon req
 ---
 
 ## Sample Images
-
 Sample images of point clouds and measurement outputs are available in `/figures/`.  
 For detailed experimental results and analysis, refer to the associated publication.
 
 ---
 
 ## Reproducibility Information
-
-The repository provides reference code and sample data that are sufficient to reproduce the reported workflow and results.  
+The repository provides reference codes and sample data that are sufficient to reproduce the reported workflow and results.  
 - Sample file formats match the original dataset to enable reproduction of the pipeline.  
 - Hardware specifications, software details, and optimization parameters are documented in the associated publication.  
 - The methodology diagram archived on Zenodo supports reproducibility and authorship verification.
@@ -35,14 +32,12 @@ The repository provides reference code and sample data that are sufficient to re
 ---
 
 ## Methodology Diagram
-
 The methodology diagram illustrates the calibration and optimization workflow and may be used alongside the reference code to reproduce the pipeline.  
 Zenodo DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 
 ---
 
 ## Data Availability
-
 All `.pcd` files and associated scripts are available upon request. The reference code provided in this repository is sufficient to reproduce the workflow and satisfy reproducibility requirements.
 
 Data request form: https://forms.gle/7GKQZj3UFonACS1w7
@@ -56,12 +51,10 @@ Data sharing is subject to approval and may require processing time.
 ---
 
 ## License
-
 All Rights Reserved  
 Copyright (c) 2025 Mandeep Singh
 
 This repository, including MATLAB/Python scripts, sample `.pcd` files, methodology diagrams, and documentation, is proprietary. No permission is granted to use, copy, modify, distribute, or publish the content in whole or in part without explicit written consent from the author.
-
 Citation using the Zenodo DOIs is required for academic reference:
 - Repository: https://doi.org/10.5281/zenodo.XXXXXXXX  
 - Methodology Diagram: https://doi.org/10.5281/zenodo.YYYYYYYY
@@ -71,7 +64,6 @@ The methodology diagram is also proprietary and subject to the same license.
 ---
 
 ## Citation
-
 If you use or reference this work (including the reference code, sample data, or methodology), cite the following:
 
 **Repository (Reference Code and Sample Data)**  
