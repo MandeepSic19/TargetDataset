@@ -1,4 +1,4 @@
-# RefData_LC
+# RefWorkflow_LC
 
 This repository provides a `.pcd` file and codes that demonstrate the calibration and optimization workflow used in the associated work. No experimental material is publicly shared; the resources provided here reflect the structure and format necessary to reproduce the computational workflow described in the manuscript.
 
@@ -29,7 +29,7 @@ The methodology diagram illustrates the calibration and optimization workflow an
 
 - **Zenodo DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
 
-## Availability of Materials
+## Access to Resources
 The `.pcd` file and reference scripts included here are sufficient to reproduce the workflow described in the manuscript.  
 The full material during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
 
