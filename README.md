@@ -5,7 +5,7 @@ A permanent archival snapshot of this repository and the methodology diagram is 
 - Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
 - Methodology Diagram DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 
-### Overview
+## Overview
 This repository also includes a  `.pcd` file along with the codes which is a representative of the full dataset.  
 - Preprocessing, calibration, and optimization workflows are demonstrated using this sample file.  
 - Full experimental setup, hardware specifications, and preprocessing parameters are described in the associated publication.
@@ -30,6 +30,7 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 All `.pcd` files and associated scripts are available upon request. The reference code provided in this repository is sufficient to reproduce the workflow and satisfy reproducibility requirements.
 
 Data request form: https://forms.gle/7GKQZj3UFonACS1w7
+
 Upon approval:
 - Files will be shared privately or added to the repository as appropriate.
 - A direct download link will be sent via email.
