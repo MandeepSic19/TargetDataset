@@ -5,7 +5,6 @@ A permanent archival snapshot of this repository and the methodology diagram is 
 - Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
 - Methodology Diagram DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 
----
 ## Dataset Overview
 This repository also includes a  `.pcd` file along with the codes which is a representative of the full dataset.  
 - Preprocessing, calibration, and optimization workflows are demonstrated using this sample file.  
@@ -13,7 +12,6 @@ This repository also includes a  `.pcd` file along with the codes which is a rep
 
 Only sample `.pcd` files are included. Full dataset access is available upon request.
 
----
 ## Sample Images
 Sample images of point clouds and measurement outputs are available in `/figures/`.  
 For detailed experimental results and analysis, refer to the associated publication.
