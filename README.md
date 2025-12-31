@@ -4,10 +4,9 @@ This repository provides a `.pcd` file and codes that demonstrate the calibratio
 
 ## Overview
 This repository includes:  
-- A `.pcd` file representing the format used in the research  
-- MATLAB codes for calibration and optimization workflows  
+- A `.pcd` file representing the original file used in the research,  
+- MATLAB codes for calibration and optimization workflows, and  
 - Reference values for calibration parameters  
-
 **Note:** The program includes representative reference values in place of actual experimental values to demonstrate reproducibility while preserving confidentiality.
 
 These resources demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript.
