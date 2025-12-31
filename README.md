@@ -16,9 +16,9 @@ Representative images of point clouds and outputs are located in `/figures/`. Fo
 
 ## Reproducibility Information
 The materials provided here support reproducibility of the computational workflow and results reported in the manuscript:  
-- File formats match those used in the original experiments  
-- Code reflects the calibration and optimization steps described in the publication  
-- Hardware and software configuration details are included in the manuscript  
+- File formats match those used in the original experiments,  
+- Code reflects the calibration and optimization steps described in the publication, and 
+- Hardware and software configuration details are included in the manuscript.  
 - The methodology diagram on Zenodo supports understanding of the workflow and confirms authorship of the process design  
 
 These resources are intended for reproducing the workflow and validating the methodology.
