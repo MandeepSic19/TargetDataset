@@ -1,20 +1,19 @@
 # RefData_LC
 
-This repository provides a `.pcd` file and reference code (with reference values) that demonstrate the calibration and optimization workflow used in the associated research. The full dataset from the experiments contains proprietary information and is not publicly released. The materials provided here reflect the structure and format of the original dataset and are sufficient to reproduce the computational pipeline described in the manuscript.
+This repository provides a `.pcd` file and  codes  that demonstrate the calibration and optimization workflow used in the associated work. The full dataset from the experiments contains proprietary information and is not publicly released. The materials provided here reflect the structure and format of the original dataset and are sufficient to reproduce the computational pipeline described in the manuscript.
 
 ## Overview
 This repository includes:
 - A `.pcd` file representing the dataset format used in the research  
 - MATLAB codes for  calibration, and optimization workflows  
 - Reference values for calibration parameters
-- Note:The program includes representative reference values in place of actual values to demonstrate reproducibility while preserving experimental confidentiality.
+Note:The program includes representative reference values in place of actual values to demonstrate reproducibility while preserving experimental confidentiality.
 
-These materials demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript. The full internal dataset can be requested from the author, subject to approval.
+These materials demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript. 
 
 ## Images and Outputs
 
-Representative images of point clouds and measurement outputs are located in `/figures/`.  
-For detailed experimental results and analysis, refer to the published manuscript.
+Representative images of point clouds and  outputs are located in `/figures/`.For detailed experimental results and analysis, refer to the published manuscript.
 
 ## Reproducibility Information
 
@@ -22,8 +21,7 @@ The materials provided here support reproducibility of the computational workflo
 - File formats match those used in the original dataset  
 - Code reflects the calibration and optimization steps described in the publication  
 - Hardware and software configuration details are included in the manuscript  
-- The methodology diagram on Zenodo supports understanding of the workflow and confirms authorship of the process design
-
+- The methodology diagram on Zenodo supports understanding of the workflow and confirms authorship of the process design.
 These resources are intended for reproducing the pipeline and validating the methodology.
 
 ## Methodology Diagram
@@ -33,14 +31,12 @@ The methodology diagram illustrates the calibration and optimization workflow an
 
 ## Data Availability
 The .pcd file and reference scripts included here are sufficient to reproduce the workflow described in the manuscript.
-The full materials generated and analyzed during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
+The full material during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
 
 - **Request form:** [https://forms.gle/7GKQZj3UFonACS1w7](https://forms.gle/7GKQZj3UFonACS1w7)
-- 
 If approved, access may be provided privately or through a controlled link.
 
 ## Citation
-
 If this work, including the reference codes, `.pcd` file, or methodology is used or referenced, cite the following:
 
 **Repository (Reference Data and Code)**  
