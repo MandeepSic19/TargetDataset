@@ -29,8 +29,7 @@ The methodology diagram illustrates the calibration and optimization workflow an
 - **Zenodo DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
 
 ## Access to Resources
-The `.pcd` file and reference scripts included here are sufficient to reproduce the workflow described in the manuscript.  
-The full material during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
+The `.pcd` file and reference scripts included here are sufficient to reproduce the workflow described in the manuscript. The full material during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
 
 - **Request form:** [https://forms.gle/7GKQZj3UFonACS1w7](https://forms.gle/7GKQZj3UFonACS1w7)  
 
